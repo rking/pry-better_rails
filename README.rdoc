@@ -1,0 +1,3 @@
+= pry-fkeys
+
+A metagem to tersify "gem 'pry-plus'; gem 'pry-rails'; gem 'better_errors'", and some additional commands
